@@ -1,60 +1,66 @@
-# Olá! Nós somos a Servlet 👋
+<div align="center">
 
-> **Simplificando o comércio no varejo e atacado.**
+# Servlet Tecnologia
 
-Bem-vindo ao perfil oficial da **Servlet** no GitHub! Somos especialistas em automação comercial, oferecendo soluções completas de ERP e PDV para gerenciar seu negócio de qualquer lugar.
+### Simplificando o comércio no varejo e atacado.
+
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-Fale%20Conosco-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/557331999160)
+[![Website](https://img.shields.io/badge/Website-servlet.com.br-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.servlet.com.br/)
+[![Email](https://img.shields.io/badge/Email-contato%40servlet.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@servlet.com.br)
+
+</div>
 
 ---
 
-## 🚀 Sobre Nós
+## 🚀 Sobre a Servlet
 
-Desde **2019** no mercado de automação, a Servlet tem a missão de otimizar processos de vendas e gestão. Nossas soluções permitem que comerciantes controlem seus estoques, emitam notas fiscais e gerenciem suas vendas com praticidade e segurança.
+Com sede em **Itacaré - BA**, a Servlet é especialista em automação comercial. Desde **2019**, desenvolvemos um ecossistema integrado para gestão de vendas, estoque e emissão fiscal.
 
-### Nossos Números
-* 🏆 **+5 anos** de mercado
-* 🤝 **+180** clientes satisfeitos
-* 💸 **+R$ 1 Milhão/mês** em transações de vendas
-* 📝 **+60.000** notas emitidas mensalmente
+Nosso objetivo é oferecer liberdade geográfica e controle total para o comerciante, seja através de sistemas Desktop robustos (Offline) ou soluções em Nuvem e Mobile.
+
+### 🏆 Nossos Números
+| Tempo de Mercado | Clientes Satisfeitos | Transações Mensais | Notas Emitidas |
+| :---: | :---: | :---: | :---: |
+| **+5 Anos** | **+180** | **+R$ 1 Milhão** | **+60.000/mês** |
 
 ---
 
 ## 💻 Nossas Soluções
 
-Desenvolvemos um ecossistema integrado para que você tenha o controle total da sua loja, seja ela física ou virtual.
+### 1. Sistema Desktop (PDV Offline)
+Focado em robustez e velocidade de atendimento no balcão.
+- Funciona sem internet.
+- Frente de caixa ágil.
+- Emissão de NFC-e instantânea.
 
-* **🖥️ Desktop (Offline):** PDV robusto que não depende de internet para vender e cadastrar produtos.
-* **🌐 Web (Cloud):** Acesso gerencial em tempo real de qualquer navegador.
-* **📱 Mobile:** App para administração e acompanhamento de vendas na palma da mão.
+### 2. Gestão Web (Cloud)
+Para o gestor que precisa de mobilidade.
+- Acompanhamento em tempo real via navegador.
+- Dashboards gerenciais.
+- Controle de estoque centralizado.
 
-### Principais Recursos
--   ✅ Frente de Caixa (PDV) Ágil
--   📦 Controle de Estoque Eficiente
--   🧾 Emissão de NFC-e
--   📊 Relatórios em Tempo Real
+### 3. Aplicativo Mobile
+A loja na palma da mão.
+- Monitoramento de vendas pelo celular.
+- Cadastro de produtos e ajustes rápidos.
 
 ---
 
-## 🏢 Seguimentos Atendidos
+## 🏢 Quem Atendemos
 
-Nossas tecnologias impulsionam diversos tipos de negócios:
+Nossas tecnologias são otimizadas para:
 * 🍔 Bares e Restaurantes
-* 🥐 Padarias
 * 🛒 Mercados e Hortifrutis
-* 🧱 Lojas de Construção
-
----
-
-## 📫 Entre em Contato
-
-Estamos sediados em **Itacaré - BA**, mas nossas soluções estão em toda parte. Quer saber mais ou contribuir? Fale com a gente!
-
-* **Website:** [servlet.com.br](https://www.servlet.com.br/)
-* **Email:** [contato@servlet.com.br](mailto:contato@servlet.com.br)
-* **WhatsApp:** [(73) 3199-9160](https://wa.me/557331999160)
-* **Localização:** Avenida Castro Alves, 535 - Centro, Itacaré/BA
+* 🥐 Padarias
+* 🧱 Lojas de Material de Construção
 
 ---
 
 <div align="center">
-  <sub>Construído com 💙 pela equipe de tecnologia da Servlet.</sub>
+
+### 📍 Onde Estamos
+**Avenida Castro Alves, 535 - Centro, Itacaré - BA**
+
+Copyright © 2024 Servlet. Todos os direitos reservados.
+
 </div>
